@@ -1,0 +1,7 @@
+D:\samuel\CODE C#\BancoVanguardBrasil\BancoVanguardBrasil\bin\Debug\BancoVanguardBrasil.exe.config
+D:\samuel\CODE C#\BancoVanguardBrasil\BancoVanguardBrasil\bin\Debug\BancoVanguardBrasil.exe
+D:\samuel\CODE C#\BancoVanguardBrasil\BancoVanguardBrasil\bin\Debug\BancoVanguardBrasil.pdb
+D:\samuel\CODE C#\BancoVanguardBrasil\BancoVanguardBrasil\obj\Debug\BancoVanguardBrasil.csproj.AssemblyReference.cache
+D:\samuel\CODE C#\BancoVanguardBrasil\BancoVanguardBrasil\obj\Debug\BancoVanguardBrasil.csproj.CoreCompileInputs.cache
+D:\samuel\CODE C#\BancoVanguardBrasil\BancoVanguardBrasil\obj\Debug\BancoVanguardBrasil.exe
+D:\samuel\CODE C#\BancoVanguardBrasil\BancoVanguardBrasil\obj\Debug\BancoVanguardBrasil.pdb
